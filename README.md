@@ -3,7 +3,5 @@ Faceboard
 
 Wall with polaroid style images of all Thinkfarmers
 
-## Download [Polaroid-Template.odg](https://github.com/thinkfarm/faceboard/blob/master/Polaroid-Template.odg?raw=true)
+Etiketten: Endisch Endi-Haft 50mm rund weiß ablösbar für Inkjet, Laser, Kopierer 65015508
 
--    Open with Libre Office
--    Add Portraits and print for Thinkfarm Faceboard
